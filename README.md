@@ -72,23 +72,6 @@ accuracy, LEAP-Q) are available in `PP Data/PPInfo - DECO.xlsx`.
 
 ---
 
-## Requirements
-
-Scripts are written in **R**. The following packages are used across the scripts:
-
-- `tidyverse`
-- `lme4`
-- `psych`
-- `ggplot2`
-
-Install all at once with:
-
-```r
-install.packages(c("tidyverse", "lme4", "psych", "ggplot2"))
-```
-
----
-
 ## Citation
 
 If you use DECO in your research, please cite:
@@ -119,4 +102,9 @@ removed from the data files.
 
 ## License
 
-[Add your preferred license here — e.g. CC BY 4.0 for data, MIT for code.]
+Data files (`ET Data/`, `Material/`, `PP Data/`, `Appendix/`) are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you are free to share
+and adapt them for any purpose, provided you give appropriate credit.
+
+Code (`R Scripts/`) is licensed under the
+[MIT License](https://opensource.org/licenses/MIT).
