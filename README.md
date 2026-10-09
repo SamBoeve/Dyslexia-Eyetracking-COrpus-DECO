@@ -33,7 +33,7 @@ DECO/
 │   ├── 01_LanguageTests.R            # Language proficiency analyses (Tables 1–2)
 │   ├── 02_DECO_ReadingTimes.R        # Reading-time descriptives and L1–L2 comparisons (Tables 3–5)
 │   ├── 03_DECO_GECO_Comparison.R     # DECO vs. GECO group comparisons
-│   └── 04_Supplementary.R            # Variable descriptions and supplementary analyses
+│   └── 04_Supplementary.R            # Supplementary analyses
 │
 └── Appendix/
     ├── Misalignments Session 1-2.xlsx   # Interest-area misalignments across data-collection periods
