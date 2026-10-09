@@ -33,11 +33,11 @@ DECO/
 │   ├── 01_LanguageTests.R            # Language proficiency analyses (Tables 1–2)
 │   ├── 02_DECO_ReadingTimes.R        # Reading-time descriptives and L1–L2 comparisons (Tables 3–5)
 │   ├── 03_DECO_GECO_Comparison.R     # DECO vs. GECO group comparisons
-│   └── 04_Supplementary.R            # Supplementary analyses and figures
+│   └── 04_Supplementary.R            # Variable descriptions and supplementary analyses
 │
 └── Appendix/
     ├── Misalignments Session 1-2.xlsx   # Interest-area misalignments across data-collection periods
-    └── Supplementary material.pdf       # Supplementary tables and figures
+    └── Supplementary material.pdf       # Description of the variables and supplementary tables and figures
 ```
 
 ---
@@ -108,3 +108,10 @@ and adapt them for any purpose, provided you give appropriate credit.
 
 Code (`R Scripts/`) is licensed under the
 [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## Contact 
+
+sam [dot] boeve [at] ugent [dot] be
+
